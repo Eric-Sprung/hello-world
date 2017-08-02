@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello-world", "hello-world\hello-world.csproj", "{8BC0CE81-153A-4D10-8CE9-C5ED9D5D5396}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{D5701078-6482-47CA-94A6-8F62D7D0B22C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primzahlen", "Primzahlen\Primzahlen.csproj", "{C10C8861-C8A0-4109-88E9-D3E5F9E009E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D5701078-6482-47CA-94A6-8F62D7D0B22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5701078-6482-47CA-94A6-8F62D7D0B22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5701078-6482-47CA-94A6-8F62D7D0B22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10C8861-C8A0-4109-88E9-D3E5F9E009E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10C8861-C8A0-4109-88E9-D3E5F9E009E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10C8861-C8A0-4109-88E9-D3E5F9E009E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10C8861-C8A0-4109-88E9-D3E5F9E009E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
